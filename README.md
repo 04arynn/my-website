@@ -60,7 +60,7 @@
   <h1>Khushi 💖</h1>
   <p>Welcome to my world ✨</p>
 
-  <a href="https://instagram.com/yourusername" target="_blank" class="btn">
+  <a href="https://instagram.com/04arynn" target="_blank" class="btn">
     Instagram
   </a>
 
@@ -68,7 +68,7 @@
     Snapchat
   </a>
 
-  <a href="https://wa.me/91XXXXXXXXXX" target="_blank" class="btn">
+  <a href="https://wa.me/918828412967" target="_blank" class="btn">
     WhatsApp
   </a>
 
