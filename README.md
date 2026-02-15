@@ -64,7 +64,7 @@
     Instagram
   </a>
 
-  <a href="https://snapchat.com/add/yourusername" target="_blank" class="btn">
+  <a href="https://snapchat.com/add/aryyyn_08" target="_blank" class="btn">
     Snapchat
   </a>
 
